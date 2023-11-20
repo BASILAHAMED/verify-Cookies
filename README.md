@@ -1,4 +1,4 @@
-### Verify Cookies
+### Verify Cookies 🔐
 
 Using Selenium to interact with a web page, log in, and check cookies before and after the login/logout process. This code is particularly useful for understanding how the website's cookies change as a user goes through the login and logout processes. Cookies often store session-related information, so their values might change as the user interacts with the website.
 ### Code Breakdown
@@ -18,7 +18,7 @@ Prints the cookies after logout.
 **shutdown() method:**
 Closes the browser session.
 
-### Output
+### Output ⭐⭐⭐
 ```
 cookies before login = []
 cookies after login = [{'domain': 'www.saucedemo.com', 'expiry': xxxxxxxxx, 'httpOnly': False, 'name': 'session-username', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'visual_user'}]
