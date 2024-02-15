@@ -8,7 +8,7 @@ Implicitly waits for a maximum of 10 seconds for elements to appear on the page.
 
 **fetch_cookies() method:**
 Opens the specified URL (https://www.saucedemo.com/).
-Maximizes the browser window.
+Maximizes the browser window. 
 Prints the cookies before login.
 Enters a username and password, then clicks the login button.
 Prints the cookies after login.
