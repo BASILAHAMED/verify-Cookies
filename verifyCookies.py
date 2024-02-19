@@ -13,7 +13,7 @@ class VerifyCookies:
 
     def fetch_cookies(self):
         self.driver.get(self.url)
-        self.driver.maximize_window()
+        self.driver.maximize_window() 
         # cookies before login
         print(f"cookies before login = {self.driver.get_cookies()}")
         self.driver.find_element(By.ID, "user-name").send_keys("visual_user")
