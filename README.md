@@ -29,18 +29,18 @@ To get started with cookie verification using Selenium, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/verify-Cookies.git
+**   git clone https://github.com/your-username/verify-Cookies.git**
 
 2. Navigate to the project directory.
-cd cookie-verification-selenium
+**cd cookie-verification-selenium**
 Install the required dependencies using pip.
 
 3. Install the required dependencies using pip.
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 Run the script.
 
 4. Run the script.
-python verify_cookies.py
+**python verify_cookies.py**
 
 ### Output ⭐⭐⭐
 ```
